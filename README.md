@@ -40,7 +40,7 @@
 * 课程教学案例： [https://github.com/zhangqixun/Android-MiniWeather](https://github.com/zhangqixun/Android-MiniWeather)
 * COOC-China: [https://cooc-china.github.io/](https://cooc-china.github.io/)
 
-#####任意的意见和建议，欢迎随意与我沟通
+#####任意的意见和建议，欢迎您与我沟通
 联系方式：
 
 * Email: zhangqx AT ss.pku.edu.cn
