@@ -1,5 +1,5 @@
 # Android-Lab
-![icon](http://mobile100.zhangqx.com/assets/images/lp.jpeg)
+![icon](http://mobile100.zhangqx.com/assets/images/lp01.jpeg)
 ## 目录
 * [HelloWorld](#HelloWorld)
 * [Acticity创建](#Activity创建)
