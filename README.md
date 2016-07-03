@@ -30,8 +30,8 @@
 <a name="使用帮助"></a>
 ## 使用帮助
 #####系统运行环境
-*Android开发工具： Android Studio 2.1或2.2 
-*SDK版本：Android 6.0， API 23
+* Android开发工具： Android Studio 2.1或2.2 
+* SDK版本：Android 6.0， API 23
 
 #####其他相关资源
 * Android电子教程（GitBook）: [https://mobile100.gitbooks.io/android](https://mobile100.gitbooks.io/android)
