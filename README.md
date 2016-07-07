@@ -9,50 +9,30 @@
 * [使用帮助](#使用帮助)
 
 <a name="HelloWorld"></a>
-## HelloWorld
+## HelloWorld应用
 * 名称：
-* 介绍：本项目是通过Android Studio工具自动创建产生。
-* 使用要点：<br>
-   1.1111 <br>
-   2.22222 <br>
-   3.3333 <br>
-   4.44
+* 介绍：
 
 
-<a name="Acticity创建"></a>
+<a name="Acticity生命周期"></a>
 ## Acticity创建
 * 名称：
-* 介绍：本项目是通过Android Studio工具自动创建产生。
-* 使用要点：<br>
-   1.1111 <br>
-   2.22222 <br>
-   3.3333 <br>
-   4.44
+* 介绍：
 
 
 
 
-<a name="TextView"></a>
+<a name="Android应用程序调试"></a>
 ## TextView
 * 名称：
-* 介绍：本项目是通过Android Studio工具自动创建产生。
-* 使用要点：<br>
-   1.1111 <br>
-   2.22222 <br>
-   3.3333 <br>
-   4.44
+* 介绍：
 
 
 
-<a name="Toast"></a>
+<a name="线性布局"></a>
 ## Toast
 * 名称：
-* 介绍：本项目是通过Android Studio工具自动创建产生。
-* 使用要点：<br>
-   1.1111 <br>
-   2.22222 <br>
-   3.3333 <br>
-   4.44
+* 介绍：
 
 
 <a name="使用帮助"></a>
